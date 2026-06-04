@@ -242,7 +242,7 @@ CREATE DATABASE terravision;
 ## 1. Clonar Repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/TerraVision.API.git
+git clone https://github.com/SEU-USUARIO/TerraVision.API.GS.git
 ```
 
 ---
@@ -250,7 +250,7 @@ git clone https://github.com/SEU-USUARIO/TerraVision.API.git
 ## 2. Entrar na Pasta
 
 ```bash
-cd TerraVision.API
+cd TerraVision.API.GS
 ```
 
 ---
