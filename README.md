@@ -547,13 +547,30 @@ DeviceSimulationService
 Durante os testes foram validados:
 
 - Consulta de clima em tempo real
+- <img width="1778" height="675" alt="image" src="https://github.com/user-attachments/assets/fdc755e4-e715-46d8-8fd2-6f918d375b67" />
+
 - Persistência no MySQL
 - Histórico climático
+- <img width="1772" height="866" alt="image" src="https://github.com/user-attachments/assets/29475b38-529e-49d3-9930-85080af881b2" />
+
 - Estatísticas climáticas
+- <img width="1778" height="622" alt="image" src="https://github.com/user-attachments/assets/469de5f2-1de4-4608-a280-23025d931740" />
+
 - Alertas climáticos
+- <img width="1779" height="833" alt="image" src="https://github.com/user-attachments/assets/be844bef-4231-4354-91a9-787fb76090d5" />
+
 - Simulação de dispositivos
+- <img width="1777" height="704" alt="image" src="https://github.com/user-attachments/assets/eba1da44-5418-475f-9ff7-c9823a1c83ce" />
+
 - Middleware global
+- <img width="1768" height="455" alt="image" src="https://github.com/user-attachments/assets/0a45b00c-51a7-426b-a0c1-19bd80247b38" />
+
+- <img width="1769" height="441" alt="image" src="https://github.com/user-attachments/assets/9b504ae1-1758-44be-9d68-786c17666554" />
+
+
 - Logs da aplicação
+- <img width="1457" height="378" alt="image" src="https://github.com/user-attachments/assets/0409e313-0169-4c39-be1b-846768b81257" />
+
 - Swagger/OpenAPI
 
 ---
