@@ -550,6 +550,8 @@ Durante os testes foram validados:
 - <img width="1778" height="675" alt="image" src="https://github.com/user-attachments/assets/fdc755e4-e715-46d8-8fd2-6f918d375b67" />
 
 - Persistência no MySQL
+- <img width="1023" height="231" alt="image" src="https://github.com/user-attachments/assets/5379f75b-f4bd-4749-96b6-b2bac1dece70" />
+
 - Histórico climático
 - <img width="1772" height="866" alt="image" src="https://github.com/user-attachments/assets/29475b38-529e-49d3-9930-85080af881b2" />
 
@@ -572,6 +574,8 @@ Durante os testes foram validados:
 - <img width="1457" height="378" alt="image" src="https://github.com/user-attachments/assets/0409e313-0169-4c39-be1b-846768b81257" />
 
 - Swagger/OpenAPI
+- <img width="1467" height="821" alt="image" src="https://github.com/user-attachments/assets/f82560a9-6379-4ff0-a019-910de734051b" />
+
 
 ---
 
