@@ -1,3 +1,9 @@
+## 👨‍💻 Integrantes
+
+* Larissa Pereira Biusse - RM 564068
+* Thamiris Almeida - RM 559155
+* Werbeth Nunes - RM 559067
+
 # 🌎 TerraVision API
 
 API REST desenvolvida em **.NET 8** para monitoramento climático inteligente, integrada à **OpenWeather API** e persistência de dados em **MySQL**.
